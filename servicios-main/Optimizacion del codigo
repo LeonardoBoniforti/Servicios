@@ -1,0 +1,17 @@
+El diseño se refiere a cómo se estructura y presenta la información en la página web. Es importante que el diseño sea atractivo y fácil de entender para los usuarios. Para lograr un buen diseño, es importante elegir los colores adecuados, seleccionar las fuentes de texto apropiadas y distribuir correctamente los elementos en la página.
+
+La optimización del rendimiento se refiere a cómo se asegura de que la página se cargue rápidamente y funcione sin problemas. Una página que tarda mucho en cargarse puede hacer que los usuarios se vayan, lo que significa que pierde la oportunidad de interactuar con ellos. Para optimizar el rendimiento, se pueden seguir algunos pasos como:
+
+    Optimización de imágenes: las imágenes deben ser optimizadas para web, reduciendo su tamaño y peso sin afectar demasiado su calidad.
+
+    Uso adecuado de scripts y estilos: los scripts y estilos deben estar correctamente ubicados y minificados para reducir su tamaño y carga.
+
+    Implementar la caché del navegador: el uso de caché permite que los recursos se almacenen en el navegador del usuario y así se evita la necesidad de volver a descargarlos.
+
+    Combinar y reducir archivos: es recomendable reducir el número de archivos CSS y JavaScript en la página para reducir la cantidad de solicitudes al servidor.
+
+    Uso de un hosting adecuado: el servidor de alojamiento puede afectar el rendimiento de la página, por lo que es importante seleccionar un buen proveedor de hosting.
+
+    Optimización del servidor: también se pueden aplicar algunas técnicas en el servidor para mejorar la velocidad y el rendimiento de la página web.
+
+    Diseño responsive: asegurarse de que el sitio web tenga un diseño responsive que se adapte a diferentes dispositivos y resoluciones de pantalla.

@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/********************Header********************/
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: #CD5C5C;
+}
+
+.header-div-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-div {
+    display: inline-block;
+    background-color: black;
+}
+
+
+.name  {
+    background-color: black;
+    text-align: center;
+}
+
+.carousel-inner {
+    height: 500px;
+    
+}
+
+/********************Main********************/
+
+.div-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+ width: 600px;
+}
+
+.card-text {
+    color: black;
+}
